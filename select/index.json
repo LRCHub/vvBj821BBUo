@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Countach",
+  "base_artist": "轟はじめ",
+  "createdAt": "2025-12-05T04:40:48.775385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Countach",
+      "artist": "Lazerpunk",
+      "has_synced": false,
+      "path": "select/01_Countach_Lazerpunk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "88 COUNTACH",
+      "artist": "JETSYKO",
+      "has_synced": true,
+      "path": "select/02_88_COUNTACH_JETSYKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Countach",
+      "artist": "Calvin Valentine",
+      "has_synced": true,
+      "path": "select/03_Countach_Calvin_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lamborghini Countach",
+      "artist": "Eldzhey",
+      "has_synced": true,
+      "path": "select/04_Lamborghini_Countach_Eldzhey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Countach",
+      "artist": "Todoroki Hajime",
+      "has_synced": true,
+      "path": "select/05_Countach_Todoroki_Hajime.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Countach",
+      "artist": "轟はじめ",
+      "has_synced": true,
+      "path": "select/06_Countach_轟はじめ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lamborghini Countach",
+      "artist": "Элджей",
+      "has_synced": true,
+      "path": "select/07_Lamborghini_Countach_Элджей.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Countach",
+      "artist": "轟はじめ",
+      "has_synced": false,
+      "path": "select/pl_01_Countach_轟はじめ.txt"
+    }
+  ]
+}
